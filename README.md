@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maheepatel
-- 👀 Interested in Web3 and webdevelopment
+- 👀 Passionate about Web3 and webdevelopment
 - 🌱 I’m currently learning Backend and solidity
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --> 
